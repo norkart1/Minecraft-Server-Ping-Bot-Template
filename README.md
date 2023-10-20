@@ -61,10 +61,3 @@ Now, you've made your bot, but you need it to be online 24/7. We've got a soluti
 • Paste and run the command in CMD. <br>
 • Once the project is linked, type the command "railway up" and enter. After a while, the upload should be completed and the bot should be online. Your bot is now hosted 24/7.
 <hr> <center>
-❤ Thank You for using MSBP
-<hr>
-Notes <br> </center>
-• For support, you can join the <a href="https://discord.gg/GDbTdhKs9c"><u>Support Server</u></a>. <br>
-• To Report a bug, create a issue in the issues tab. <br>
-• <b>This bot only works for Java servers</b>
-
